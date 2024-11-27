@@ -1,10 +1,8 @@
 # Hi, I'm Salih Akyüzoğlu [![](https://visitcount.itsvg.in/api?id=Well0-1&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-<h3 align="left">
+<h4 align="left">
   I am a dedicated developer driven by the challenge of building impactful, user-friendly applications. I aim to merge functionality with design to make technology accessible for everyone. With each project, I strive to improve my skills and push the boundaries of what I can create.
-</h3>
-
-<br/>
+</h4>
 
 # 💻 Tech Stack:
 
