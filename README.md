@@ -1,51 +1,63 @@
-# Hi, I'm Salih Akyüzoğlu [![](https://visitcount.itsvg.in/api?id=Well0-1&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D51,100:1F6FEB&height=200&section=header&text=Salih%20Aky%C3%BCzo%C4%9Flu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%40%20Boemar&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-<h4 align="left">
-  I am a dedicated developer driven by the challenge of building impactful, user-friendly applications. I aim to merge functionality with design to make technology accessible for everyone. With each project, I strive to improve my skills and push the boundaries of what I can create.
-</h4>
+<!-- TYPING -->
+<a href="https://github.com/Well0-1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&width=620&lines=Full-Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Next.js;Self-hosted+infra+%26+AI-assisted+apps;Always+shipping+side+projects" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
+![Profile Views](https://komarev.com/ghpvc/?username=Well0-1&color=1f6feb&style=flat&label=Profile+Views)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c#&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+Full-stack developer focused on building impactful, user-friendly products where functionality meets clean design. I ship end to end — from database schema to pixel-perfect UI — and I'm always pushing the boundaries of what I can build.
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+- Currently working with **TypeScript, Next.js, Convex & Docker**
+- Exploring self-hosted infrastructure, monitoring stacks & AI-assisted apps
+- Ask me about full-stack TypeScript, React, or shipping side projects
+- Fun fact: I like turning messy bank statements into clean spending insights
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Connect with me
 
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akyuzoglu-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakyuzoglu/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Well0-1)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Chart.js](https://img.shields.io/badge/chart.js-%23CB3837.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## Tech Stack
 
-# 📊 GitHub Stats:
+![Languages](https://skillicons.dev/icons?i=ts,js,c,cs,python,html,css,bash&perline=8)
 
-<div align="center">
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,electron&perline=8)
 
-![](https://github-readme-stats.vercel.app/api?username=Well0-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Tools](https://skillicons.dev/icons?i=mongodb,mysql,docker,git,linux,vercel,firebase,postman&perline=8)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Well0-1&theme=dark&hide_border=false)
+![Data](https://skillicons.dev/icons?i=pytorch,numpy&perline=8)
 
-</div>
+<sub>Also working with</sub>
+
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+## Featured Projects
+
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| [**Play-Radar**](https://github.com/Well0-1/Play-Radar) | Open-source platform that compares game system requirements and tells users whether their PC can run a game. | JavaScript |
+| [**Kizuna**](https://github.com/Well0-1/Kizuna) | Self-hosted, open-source chat app built for secure and private communication. | TypeScript |
+| [**Ekstre**](https://github.com/meduware/ekstre) | Mobile-first bank-statement spending analysis — AI extracts & categorizes transactions, ships to iOS/Android via Capacitor. | Next.js · Convex |
+| [**Portfolio**](https://github.com/Well0-1/akyuzoglu-dev) | My personal portfolio → [akyuzoglu-dev.vercel.app](https://akyuzoglu-dev.vercel.app) | Next.js |
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Well0-1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Well0-1&theme=github_dark&hide_border=true&layout=compact&langs_count=8)
+
+![Streak](https://streak-stats.demolab.com/?user=Well0-1&theme=github-dark-blue&hide_border=true)
+
+## 3D Contribution Calendar
+
+![3D contribution calendar](./profile-3d-contrib/profile-night-view.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0B1D51&height=100&section=footer" width="100%" alt="footer" />
