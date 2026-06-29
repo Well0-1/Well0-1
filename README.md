@@ -29,9 +29,21 @@ Full-stack developer focused on building impactful, user-friendly products where
 
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,tailwind,mongodb,docker,git,linux&perline=12)
+**Core**
+
+![Core](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,tailwind,mongodb,docker,git,linux&perline=12)
 
 ![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
+![Mailcow](https://img.shields.io/badge/Mailcow-2C5BB4?style=flat-square&logo=maildotru&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ## Featured Projects
 
