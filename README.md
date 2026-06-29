@@ -29,20 +29,28 @@ Full-stack developer focused on building impactful, user-friendly products where
 
 ## Tech Stack
 
-**Core**
+**Languages**
 
-![Core](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,tailwind,mongodb,docker,git,linux&perline=12)
+![Languages](https://skillicons.dev/icons?i=ts,js,python,postgres&perline=12)
 
+**Frameworks & Libraries**
+
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=12)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-0F172A?style=flat-square&logo=elysia&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
 
-**DevOps & Infrastructure**
+**Infrastructure & DevOps**
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Infra](https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,git&perline=12)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
 ![Mailcow](https://img.shields.io/badge/Mailcow-2C5BB4?style=flat-square&logo=maildotru&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+
+**Tools & Services**
+
+![Tools](https://skillicons.dev/icons?i=supabase&perline=12)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ## Featured Projects
@@ -50,7 +58,7 @@ Full-stack developer focused on building impactful, user-friendly products where
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
 | [**Play-Radar**](https://github.com/Well0-1/Play-Radar) | Open-source platform that compares game system requirements and tells users whether their PC can run a game. | JavaScript |
-| [**Kizuna**](https://github.com/Well0-1/Kizuna) | Self-hosted, open-source chat app built for secure and private communication. | TypeScript |
+| [**Kizuna**](https://github.com/meduware/Kizuna) | Self-hosted, secure messaging platform for communities — microservice architecture with an API Gateway and Supabase Realtime. | Next.js · Node.js · Supabase |
 | [**Ekstre**](https://github.com/meduware/ekstre) | Mobile-first bank-statement spending analysis — AI extracts & categorizes transactions, ships to iOS/Android via Capacitor. | Next.js · Convex |
 | [**Portfolio**](https://github.com/Well0-1/akyuzoglu-dev) | My personal portfolio → [akyuzoglu-dev.vercel.app](https://akyuzoglu-dev.vercel.app) | Next.js |
 
