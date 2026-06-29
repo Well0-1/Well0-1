@@ -12,11 +12,6 @@
 
 Full-stack developer focused on building impactful, user-friendly products where functionality meets clean design. I ship end to end — from database schema to pixel-perfect UI — and I'm always pushing the boundaries of what I can build.
 
-- Currently working with **TypeScript, Next.js, Convex & Docker**
-- Exploring self-hosted infrastructure, monitoring stacks & AI-assisted apps
-- Ask me about full-stack TypeScript, React, or shipping side projects
-- Fun fact: I like turning messy bank statements into clean spending insights
-
 <h2 align="center">Connect with me</h2>
 
 <div align="center">
